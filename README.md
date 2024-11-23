@@ -36,3 +36,9 @@
 | 20x_CD206_model_CD86_data_all_surfaces_all_features_M1-M2 |	no_NT_20x_CD86_CD206 (3rd model) |
 | 20x_CD206+CD86_P4G4_model_TCPS_data_all_features |	20x_CD206+CD86_P4G4_model_TCPS_data_nucleus_deformation |
 | 20x_CD206+CD86_TCPS_model_P4G4_data_all_features |	20x_CD206+CD86_TCPS_model_P4G4_data_nucleus_deformation |
+| 20x_CD206+CD86_P4G4_intensity |	20x_CD206+CD86_P4G4_nucleus_deformation (1st model) |
+| 20x_CD206+CD86_P4G4_shape |	20x_CD206+CD86_P4G4_nucleus_deformation (2nd model) |
+| 20x_CD206+CD86_P4G4_texture |	20x_CD206+CD86_P4G4_nucleus_deformation (3rd model) |
+| 20x_CD206+CD86_TCPS_intensity |	20x_CD206+CD86_TCPS_nucleus_deformation (1st model) |
+| 20x_CD206+CD86_TCPS_shape |	20x_CD206+CD86_TCPS_nucleus_deformation (2nd model) |
+| 20x_CD206+CD86_TCPS_texture |	20x_CD206+CD86_TCPS_nucleus_deformation (3rd model) |

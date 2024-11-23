@@ -34,3 +34,5 @@
 | 20x_CD86+CD206_all_surfaces_all_features_M1-M2 |	no_NT_20x_CD86_CD206 (1st model) |
 | 20x_CD86_model_CD206_data_all_surfaces_all_features_M1-M2 |	no_NT_20x_CD86_CD206 (2nd model) |
 | 20x_CD206_model_CD86_data_all_surfaces_all_features_M1-M2 |	no_NT_20x_CD86_CD206 (3rd model) |
+| 20x_CD206+CD86_P4G4_model_TCPS_data_all_features |	20x_CD206+CD86_P4G4_model_TCPS_data_nucleus_deformation |
+| 20x_CD206+CD86_TCPS_model_P4G4_data_all_features |	20x_CD206+CD86_TCPS_model_P4G4_data_nucleus_deformation |

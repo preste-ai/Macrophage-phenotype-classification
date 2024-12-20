@@ -222,14 +222,20 @@ def create_interface():
     predictor = ModelPredictor()
 
     def update_model_features(model_name):
-        """
-        Callback to update features when model is selected
-        """
+        """Callback to update features when model is selected"""
         features = ModelFeatureExtractor.get_model_features(model_name)
         return "\n".join(features)
 
-    with gr.Blocks() as interface:
-        gr.Markdown("# Cell Type Prediction Interface")
+    with gr.Blocks(css="footer {visibility: hidden}") as interface:
+        with gr.Row():
+            gr.HTML("""
+                <div style="display: flex; justify-content: space-between; width: 100%; padding: 10px;">
+                    <img src="https://docs.preste.ai/Preste-color.png" style="height: 50px; object-fit: contain;">
+                    <img src="https://eu-nova.eu/skin/nova/assets/img/logo.png" style="height: 50px; object-fit: contain;">
+                </div>
+            """)
+
+        gr.Markdown("# Cell Type Prediction")
 
         with gr.Row():
             model_dropdown = gr.Dropdown(
@@ -238,14 +244,12 @@ def create_interface():
                 value=list(model_paths.keys())[0]
             )
 
-            # Features textbox to show model features immediately
-            features_list = gr.Textbox(
-                label="Features Used by Model",
-                interactive=False,
-                lines=5
-            )
+        features_list = gr.Textbox(
+            label="Features Used by Model",
+            interactive=False,
+            lines=5
+        )
 
-        # Dynamic feature update when model is selected
         model_dropdown.change(
             fn=update_model_features,
             inputs=[model_dropdown],
@@ -282,7 +286,6 @@ def create_interface():
                 file_types=[".csv"]
             )
 
-        # Prediction button and logic
         predict_btn.click(
             fn=predictor.predict,
             inputs=[model_dropdown, file_input],

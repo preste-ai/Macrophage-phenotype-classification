@@ -7,32 +7,51 @@ Notebook for initial data exploration and Cell Profiler pipelines, used to extra
 Notebooks are available here for:
 
 Data exploration 1: <a href="https://colab.research.google.com/github/preste-ai/Confluence2Outline/blob/main/Confluence2Outline_pub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
 Data exploration 2: <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_TCPS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
-Data exploration 3: <a href="[https://colab.research.google.com/github/preste-ai/Confluence2Outline/blob/main/Confluence2Outline_pub.ipynb](https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_smooth.ipynb)"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
-Data exploration 4: <a href="[https://colab.research.google.com/github/preste-ai/Confluence2Outline/blob/main/Confluence2Outline_pub.ipynb](https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_surfaces_comparison.ipynb)"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
+Data exploration 3: <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_smooth.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
+Data exploration 4: <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_surfaces_comparison.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
 
 
+Data preprocessing 1:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Data_preprocessing/Data_preprocessing_20x_CD206.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
 
 
+Data preprocessing 2:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Data_preprocessing/Data_preprocessing_20x_CD68.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
+Data preprocessing 3:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Data_preprocessing/Data_preprocessing_20x_CD86.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
 
 
-Data preprocessing 
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Data_preprocessing/Data_preprocessing_20x_CD206.ipynb
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Data_preprocessing/Data_preprocessing_20x_CD68.ipynb
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Data_preprocessing/Data_preprocessing_20x_CD86.ipynb
+Classification 1:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206+CD86_P4G4_model_TCPS_data_nucleus_deformation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
 
-Classification
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206+CD86_P4G4_model_TCPS_data_nucleus_deformation.ipynb
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206+CD86_P4G4_nucleus_deformation.ipynb
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206+CD86_TCPS_model_P4G4_data_nucleus_deformation.ipynb
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206+CD86_TCPS_nucleus_deformation.ipynb
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206_all_surfaces_nucleus_deformation.ipynb
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206_nucleus_deformation.ipynb
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD86_CD206_all_surfaces_nucleus_deformation.ipynb
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD86_CD206_combined_nucleus_deformation.ipynb
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD86_all_surfaces_nucleus_deformation.ipynb
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD86_nucleus_deformation.ipynb
-https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/CD206_data_on_CD86_model.ipynb
+Classification 2:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206+CD86_P4G4_nucleus_deformation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
+Classification 3:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206+CD86_TCPS_model_P4G4_data_nucleus_deformation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
+
+Classification 4:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206+CD86_TCPS_nucleus_deformation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
+Classification 4:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206_all_surfaces_nucleus_deformation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
+
+Classification 6:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206_nucleus_deformation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
+
+Classification 7:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD86_CD206_all_surfaces_nucleus_deformation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
+
+Classification 8:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD86_CD206_combined_nucleus_deformation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
+
+Classification 8:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD86_all_surfaces_nucleus_deformation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
+
+Classification 9:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD86_nucleus_deformation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
+
+Classification 10:  <a href="https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/CD206_data_on_CD86_model.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
 
 ## Final model's location:
 | Model name | Model's location |

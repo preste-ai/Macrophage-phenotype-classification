@@ -2,6 +2,14 @@
 Repo with code for Macrophage phenotype detection methodology on textured surfaces via nuclear morphology using machine learning.
 Includes preprocessing, training, and model evaluation. 
 Notebook for initial data exploration and Cell Profiler pipelines, used to extract nuclei parameters.
+
+Notebooks are available at
+Data exploration:
+https://colab.research.google.com/https://github.com/preste-ai/Macrophage-phenotype-classification/tree/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_P4G4.ipynb
+https://colab.research.google.com/https://github.com/preste-ai/Macrophage-phenotype-classification/tree/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_TCPS.ipynb
+https://colab.research.google.com/https://github.com/preste-ai/Macrophage-phenotype-classification/tree/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_smooth.ipynb
+https://colab.research.google.com/https://github.com/preste-ai/Macrophage-phenotype-classification/tree/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_surfaces_comparison.ipynb
+
 ## Final model's location:
 | Model name | Model's location |
 | ---------- | ---------------- |

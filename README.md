@@ -6,7 +6,7 @@ Notebook for initial data exploration and Cell Profiler pipelines, used to extra
 
 Notebooks are available here for:
 
-Data exploration: <a href="https://colab.research.google.com/github/preste-ai/Confluence2Outline/blob/main/Confluence2Outline_pub.ipynb><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+Data exploration: <a href="https://colab.research.google.com/github/preste-ai/Confluence2Outline/blob/main/Confluence2Outline_pub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
 
 
 https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_TCPS.ipynb

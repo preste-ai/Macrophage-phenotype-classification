@@ -3,12 +3,31 @@ Repo with code for Macrophage phenotype detection methodology on textured surfac
 Includes preprocessing, training, and model evaluation. 
 Notebook for initial data exploration and Cell Profiler pipelines, used to extract nuclei parameters.
 
-Notebooks are available at
+Notebooks are available here for:
+
 Data exploration:
 https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_P4G4.ipynb
 https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_TCPS.ipynb
 https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_smooth.ipynb
 https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_surfaces_comparison.ipynb
+
+Data preprocessing 
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Data_preprocessing/Data_preprocessing_20x_CD206.ipynb
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Data_preprocessing/Data_preprocessing_20x_CD68.ipynb
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Data_preprocessing/Data_preprocessing_20x_CD86.ipynb
+
+Classification
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206+CD86_P4G4_model_TCPS_data_nucleus_deformation.ipynb
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206+CD86_P4G4_nucleus_deformation.ipynb
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206+CD86_TCPS_model_P4G4_data_nucleus_deformation.ipynb
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206+CD86_TCPS_nucleus_deformation.ipynb
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206_all_surfaces_nucleus_deformation.ipynb
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD206_nucleus_deformation.ipynb
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD86_CD206_all_surfaces_nucleus_deformation.ipynb
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD86_CD206_combined_nucleus_deformation.ipynb
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD86_all_surfaces_nucleus_deformation.ipynb
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/20x_CD86_nucleus_deformation.ipynb
+https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Classification_models/CD206_data_on_CD86_model.ipynb
 
 ## Final model's location:
 | Model name | Model's location |

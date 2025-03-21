@@ -2,11 +2,13 @@
 Repo with code for Macrophage phenotype detection methodology on textured surfaces via nuclear morphology using machine learning.
 Includes preprocessing, training, and model evaluation. 
 Notebook for initial data exploration and Cell Profiler pipelines, used to extract nuclei parameters.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 Notebooks are available here for:
 
-Data exploration:
-<a href="[https://colab.research.google.com/github/preste-ai/Confluence2Outline/blob/main/Confluence2Outline_pub.ipynb](https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_P4G4.ipynb)"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+Data exploration: <a href="[[https://colab.research.google.com/github/preste-ai/Confluence2Outline/blob/main/Confluence2Outline_pub.ipynb](https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_P4G4.ipynb)](https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_P4G4.ipynb)"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+
+
 https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_TCPS.ipynb
 https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_nucleus_CD86_smooth.ipynb
 https://colab.research.google.com/github/preste-ai/Macrophage-phenotype-classification/blob/main/Notebooks/Dim_reduction_analysis/tSNE_UMAP_surfaces_comparison.ipynb

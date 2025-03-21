@@ -1,4 +1,7 @@
 # nova-spartha-macrophage-study
+Repo with code for Macrophage phenotype detection methodology on textured surfaces via nuclear morphology using machine learning.
+Includes preprocessing, training, and model evaluation. 
+Notebook for initial data exploration and Cell Profiler pipelines, used to extract nuclei parameters.
 ## Final model's location:
 | Model name | Model's location |
 | ---------- | ---------------- |
@@ -42,3 +45,6 @@
 | 20x_CD206+CD86_TCPS_intensity |	20x_CD206+CD86_TCPS_nucleus_deformation (1st model) |
 | 20x_CD206+CD86_TCPS_shape |	20x_CD206+CD86_TCPS_nucleus_deformation (2nd model) |
 | 20x_CD206+CD86_TCPS_texture |	20x_CD206+CD86_TCPS_nucleus_deformation (3rd model) |
+
+![Alt text](NOVA-Logo_OP_Dunkel.png)
+This work is funded by the European Union under grant agreement number Horizon Europe Framework Programme N° 101058554(NOVA),  The funder played no role in study design, data collection, analysis, and interpretation of data
